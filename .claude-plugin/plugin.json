@@ -1,0 +1,8 @@
+{
+  "name": "debugging-from-facts",
+  "version": "0.1.0",
+  "description": "A debugging method for code nobody fully understands: separate facts from hypotheses, find a control, kill every hypothesis a fact contradicts.",
+  "author": { "name": "Mahdiazhari" },
+  "license": "MIT",
+  "repository": "https://github.com/Mahdiazhari/debugging-from-facts"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "debugging-from-facts",
+  "description": "One plugin: the debugging-from-facts skill for Claude Code (and other agents that read SKILL.md).",
+  "owner": {
+    "name": "Mahdiazhari"
+  },
+  "plugins": [
+    {
+      "name": "debugging-from-facts",
+      "source": "./",
+      "description": "A debugging method for code nobody fully understands: separate facts from hypotheses, find a control, kill every hypothesis a fact contradicts."
+    }
+  ]
+}
